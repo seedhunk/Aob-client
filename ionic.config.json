@@ -1,0 +1,7 @@
+{
+  "name": "AoB uniform",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
